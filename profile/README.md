@@ -1,8 +1,8 @@
-# HELIX Research Group
+# HELIX (AGH University of Kraków)
 
-**Heuristics, Evolution and Learning for Intelligent eXploration**
-
-AGH University of Kraków
+<p align="center">
+<img src="helix_logo.png" alt="HELIX Banner" width="800"/>
+</p>
 
 ## About Us
 
