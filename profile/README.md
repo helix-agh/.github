@@ -1,5 +1,3 @@
-# HELIX (AGH University of Kraków)
-
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="helix-banner-dark.png">
